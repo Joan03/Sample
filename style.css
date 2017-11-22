@@ -1,0 +1,43 @@
+body{
+    background-color: deepskyblue;
+}
+.wrapper{
+    box-shadow: 5px 5px 5px 5px;
+    height: 620px;
+    width : 80%;
+    margin-left : auto;
+    margin-right : auto;
+    margin-top : 0px;  
+    margin-bottom : 0px;
+    text-align : center;
+}
+.logo{
+    height : 200px;
+    background-color:white;
+    border-top-right-radius: 20px;
+}
+.nav{
+    height : 50px;
+    background-color:gray; 
+    margin-bottom:10px;  
+}
+.contA{
+    height: 300px;
+    width: 30%;
+    float:left;
+    background-color: red;
+}
+.contB{
+    height: 300px;
+    width: 70%;
+    float: right;
+    background-color: yellow;
+}
+.footer{
+    height: 50px;
+    float: left;
+    width: 100%;
+    margin-top: 10px;
+    background-color:indigo;
+    border-bottom-left-radius: 20px;
+}
